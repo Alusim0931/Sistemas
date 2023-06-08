@@ -1,0 +1,11 @@
+dn: ou=campGandia,dc=equipo3,dc=local
+objectClass: organizationalUnit
+ou: campGandia
+
+dn: ou=usuarios,ou=campGandia,dc=equipo3,dc=local
+objectClass: organizationalUnit
+ou: usuarios
+
+dn: ou=grupos,ou=campGandia,dc=equipo3,dc=local
+objectClass: organizationalUnit
+ou: grupos

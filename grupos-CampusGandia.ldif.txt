@@ -1,0 +1,19 @@
+dn: cn=Prensa,ou=grupos,ou=campGandia,dc=equipo3,dc=local
+objectClass: posixGroup
+cn: Prensa
+gidNumber: 5012
+
+dn: cn=IDI,ou=grupos,ou=campGandia,dc=equipo3,dc=local
+objectClass: posixGroup
+cn: IDI
+gidNumber: 5013
+
+dn: cn=Informatica,ou=grupos,ou=campGandia,dc=equipo3,dc=local
+objectClass: posixGroup
+cn: Informatica
+gidNumber: 5014
+
+dn: cn=Recursos,ou=grupos,ou=campGandia,dc=equipo3,dc=local
+objectClass: posixGroup
+cn: Recursos
+gidNumber: 5015

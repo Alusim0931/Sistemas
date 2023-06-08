@@ -1,0 +1,121 @@
+dn: uid=mjuanp,ou=usuarios,ou=campGandia,dc=equipo3,dc=local
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: mjuanp
+sn: Juan
+givenName: Miriam
+cn: Miriam Juan
+displayName: Miriam
+uidNumber: 6024
+gidNumber: 5012
+userPassword: {SSHA}BzRsYwdyuA/qciNBl0xGhETGf02/cXyL
+loginShell: /bin/bash
+homeDirectory: /home/mjuanp
+
+dn: uid=ichavesj,ou=usuarios,ou=campGandia,dc=equipo3,dc=local
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: ichavesj
+sn: chaves
+givenName: Ignacio
+cn: Ignacio Chaves
+displayName: Ignacio
+uidNumber: 6025
+gidNumber: 5012
+userPassword: {SSHA}BzRsYwdyuA/qciNBl0xGhETGf02/cXyL
+loginShell: /bin/bash
+homeDirectory: /home/ichavesj
+
+dn: uid=lalbaa,ou=usuarios,ou=campGandia,dc=equipo3,dc=local
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: lalbaa
+sn: Alba
+givenName: Laura
+cn: Laura Alba
+displayName: Laura
+uidNumber: 6026
+gidNumber: 5013
+userPassword: {SSHA}BzRsYwdyuA/qciNBl0xGhETGf02/cXyL
+loginShell: /bin/bash
+homeDirectory: /home/lalbaa
+
+
+dn: uid=jcarvalhog,ou=usuarios,ou=campGandia,dc=equipo3,dc=local
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: jcarvalhog
+sn: Carvalho
+givenName: Jorge
+cn: Jorge Carvalho
+displayName: Jorge
+uidNumber: 6027
+gidNumber: 5013
+userPassword: {SSHA}BzRsYwdyuA/qciNBl0xGhETGf02/cXyL
+loginShell: /bin/bash
+homeDirectory: /home/jcarvalhog
+
+dn: uid=aalabauv,ou=usuarios,ou=campGandia,dc=equipo3,dc=local
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: aalabauv
+sn: Alabau
+givenName: Antonio
+cn: Antonio Alabau
+displayName: Antonio
+uidNumber: 6028
+gidNumber: 5014
+userPassword: {SSHA}BzRsYwdyuA/qciNBl0xGhETGf02/cXyL
+loginShell: /bin/bash
+homeDirectory: /home/aalabauv
+
+dn: uid=cgomisc,ou=usuarios,ou=campGandia,dc=equipo3,dc=local
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: cgomisc
+sn: Gomis
+givenName: Claudio
+cn: Claudio Gomis
+displayName: Claudio
+uidNumber: 6029
+gidNumber: 5014
+userPassword: {SSHA}BzRsYwdyuA/qciNBl0xGhETGf02/cXyL
+loginShell: /bin/bash
+homeDirectory: /home/cgomisc
+
+
+dn: uid=svalenciam,ou=usuarios,ou=campGandia,dc=equipo3,dc=local
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: svalenciam
+sn: Valencia
+givenName: Susana
+cn: Susana Valencia
+displayName: Susana
+uidNumber: 6030
+gidNumber: 5015
+userPassword: {SSHA}BzRsYwdyuA/qciNBl0xGhETGf02/cXyL
+loginShell: /bin/bash
+homeDirectory: /home/svalenciam
+
+dn: uid=pchavesa,ou=usuarios,ou=campGandia,dc=equipo3,dc=local
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: pchavesa
+sn: Chaves
+givenName: Pedro
+cn: Pedro Chaves
+displayName: Pedro
+uidNumber: 6031
+gidNumber: 5015
+userPassword: {SSHA}BzRsYwdyuA/qciNBl0xGhETGf02/cXyL
+loginShell: /bin/bash
+homeDirectory: /home/pchavesa
